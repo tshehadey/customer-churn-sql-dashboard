@@ -1,8 +1,14 @@
+# Customer Churn and Revenue Analysis (SQL + Tableau)
+
+## Interactive Dashboard
+
+View the live Tableau dashboard here:
+
+https://public.tableau.com/app/profile/tysir.shehadey/viz/customer_churn_dashboard_17725886086350/ChurnandRevenueDashboard
+
 ## Dashboard Preview
 
 ![Dashboard Preview](images/dashboard_preview.png)
-
-# Customer Churn and Revenue Analysis (SQL + Tableau)
 
 ## Project Overview
 
