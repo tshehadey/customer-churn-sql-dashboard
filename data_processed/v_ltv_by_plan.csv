@@ -1,0 +1,9 @@
+plan_name,billing_cycle,n_subs,avg_ltv,total_revenue
+Professional,Monthly,17848,2070.22,36949275.00
+Business,Monthly,5809,5387.38,31295316.00
+Professional,Annual,5845,2191.67,12810322.80
+Business,Annual,2008,5624.75,11294490.60
+Starter,Monthly,13314,797.87,10622781.00
+Enterprise,Monthly,426,17568.62,7484233.00
+Starter,Annual,4574,854.30,3907589.40
+Enterprise,Annual,176,18614.88,3276219.60

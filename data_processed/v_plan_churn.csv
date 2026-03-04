@@ -1,0 +1,9 @@
+plan_name,billing_cycle,total_subs,churned_subs,churn_rate
+Starter,Monthly,13314,3136,0.2355
+Professional,Monthly,17848,3625,0.2031
+Business,Monthly,5809,904,0.1556
+Enterprise,Monthly,426,39,0.0915
+Starter,Annual,4574,1127,0.2464
+Professional,Annual,5845,1217,0.2082
+Business,Annual,2008,310,0.1544
+Enterprise,Annual,176,18,0.1023
