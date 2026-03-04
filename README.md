@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard Preview](images/dashboard_preview.png)
+
 # Customer Churn and Revenue Analysis (SQL + Tableau)
 
 ## Project Overview
